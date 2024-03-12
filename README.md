@@ -22,12 +22,13 @@ I began by extracting EPI data, which I adjusted for consistency with existing d
 
 
 **Impact of GDP on EPI**: Excluding low-GDP countries highlighted this correlation, whereas removing high-GDP nations from the analysis revealed a negligible influence of data accessibility on EPI.
-![low](https://github.com/Ryad-ht/Data_Accessibility/assets/125749863/9e15874b-4b6b-4357-abe7-0118412f805a)
 
+Impact of excluding low-GDP countries on EPI analysis.
+![hight](https://github.com/Ryad-ht/Data_Accessibility/assets/125749863/5893cf65-5ce6-4f66-ae42-f226d82c7300)
 
 
 Following this, the analysis of high-GDP countries revealed a negligible influence.
-![hight](https://github.com/Ryad-ht/Data_Accessibility/assets/125749863/5893cf65-5ce6-4f66-ae42-f226d82c7300)
+![low](https://github.com/Ryad-ht/Data_Accessibility/assets/125749863/9e15874b-4b6b-4357-abe7-0118412f805a)
 
 ## Discussion
 
