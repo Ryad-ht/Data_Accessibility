@@ -41,4 +41,4 @@ This study underscores the critical importance of data accessibility in enhancin
 
 ## Author's Remark
 
-It's important to note that this case study represents my initial foray into the world of data analysis.
+It's important to note that this case study was my first exploration into data analysis and that I no longer have access to the data used. Therefore, I am unable to correct any mistakes or improve the figures presented.
