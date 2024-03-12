@@ -36,3 +36,9 @@ The findings indicate a significant role for information access in improving env
 ## Conclusion and Implications
 
 This study underscores the critical importance of data accessibility in enhancing countries' EPI, highlighting the role public policies can play in promoting this access. It also points to the need for tailored strategies for low-income countries to help them improve their environmental performance.
+
+
+
+## Author's Remark
+
+It's important to note that this case study represents my initial foray into the world of data analysis.
